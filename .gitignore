@@ -31,3 +31,6 @@ desktop.ini
 *.tmp
 *.swp
 *.bak
+
+# Data files
+*.json
